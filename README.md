@@ -13,12 +13,13 @@
 ---
 
 ## 🏆 **Proyectos Destacados**  
-[Próximamente] 
+📌 [python_app_quotes](https://github.com/FranciscoRivera90/python_app_quotes.git) → Cotizaciones dinámicas en Python 
 
 ---
 
 ## 🚀 **¿En qué estoy trabajando actualmente?**  
-[Próximamente]  
+🔸 Desarrollo de una **aplicación de escritorio para generar, gestionar y exportar cotizaciones profesionales para clientes y prospectos comerciales en Python.**.  
+
 
 ---
 
