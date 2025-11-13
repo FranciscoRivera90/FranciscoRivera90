@@ -13,7 +13,7 @@
 ---
 
 ## 🏆 **Proyectos Destacados**  
-📌 [python_app_quotes](https://github.com/FranciscoRivera90/python_app_quotes.git) → Cotizaciones dinámicas en Python 
+📌 [python_app_quotes](https://github.com/FranciscoRivera90/python_app_quotes.git) → Cotizaciones dinámicas en Python <br>
 📌 [power_bi_sales_variedades_enterprise](https://github.com/FranciscoRivera90/power_bi_sales_variedades_enterprise.git) → Prototipo Dashboard Ventas Tienda de Variedades
 
 ---
